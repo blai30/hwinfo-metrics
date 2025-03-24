@@ -1,4 +1,11 @@
 [Variables]
+FontFace=Inter Variable Text
+FontColor=0xf4f4f5
+RedColor=0xff6467
+OrangeColor=0xff8904
+YellowColor=0xffdf20
+GreenColor=0x7bf1a8
+
 ; CPU Temperature
 HWiNFO_CpuEnhancedSensorId=0xf0000501
 HWiNFO_CpuEnhancedSensorInstance=0x0
