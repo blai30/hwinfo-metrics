@@ -1,8 +1,4 @@
 [Variables]
-Author=Brian Lai
-Version=1.1.1
-License=Creative Commons Attribution
-
 FontFace=Inter Variable Text
 FontColor=0xf4f4f5
 RedColor=0xff6467
